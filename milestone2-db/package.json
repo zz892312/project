@@ -1,0 +1,17 @@
+{
+  "name": "baby-activity-monitor-milestone2",
+  "version": "1.0.0",
+  "description": "Database connection demonstration for Milestone 2",
+  "main": "database-demo.js",
+  "scripts": {
+    "test": "node database-demo.js",
+    "demo": "node database-demo.js",
+    "setup": "node setup-database.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.6.5",
+    "dotenv": "^16.3.1"
+  },
+  "author": "",
+  "license": "MIT"
+}
